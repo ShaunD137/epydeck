@@ -166,6 +166,8 @@ If epydeck contributes to a project that leads to publication, please acknowledg
 - [epydeck](https://github.com/epochpic/epydeck): Input deck reader and writer.
 - [epyscan](https://github.com/epochpic/epyscan): Create campaigns over a given parameter space using various sampling methods.
 
-- [sdf-xarray](https://github.com/PlasmaFAIR/sdf-xarray): Reading and processing SDF files and converting them to [xarray](https://docs.xarray.dev/en/stable/).
-- [epydeck](https://github.com/PlasmaFAIR/epydeck): Input deck reader and writer.
-- [epyscan](https://github.com/PlasmaFAIR/epyscan): Create campaigns over a given parameter space using various sampling methods.
+## PlasmaFAIR
+
+![PlasmaFAIR logo](PlasmaFAIR.svg)
+
+Originally developed by [PlasmaFAIR](https://plasmafair.github.io), EPSRC Grant EP/V051822/1
