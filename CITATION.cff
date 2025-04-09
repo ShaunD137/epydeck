@@ -2,7 +2,7 @@ cff-version: 1.2.0
 title: 'epydeck: EPOCH input file reader/writer'
 message: 'If you use this software, please cite it using the metadata from this file.'
 type: software
-repository-code: 'https://github.com/PlasmaFAIR/epydeck'
+repository-code: 'https://github.com/epochpic/epydeck'
 authors:
   - family-names: Hill
     given-names: Peter
@@ -12,5 +12,4 @@ authors:
     given-names: Joel L.
     orcid: 'https://orcid.org/0009-0005-4889-5231'
     affiliation: University of York
-repository-code: 'https://github.com/PlasmaFAIR/epydeck'
 date-released: '2024-04-22'
